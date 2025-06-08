@@ -1,0 +1,14 @@
+.DS_Store
+*.log
+*.sql
+*.zip
+node_modules/
+vendor/
+.env
+.env.*
+config.php
+.idea/
+.vscode/
+*.bak
+*.tmp
+__MACOSX/
